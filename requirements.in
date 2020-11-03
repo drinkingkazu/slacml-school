@@ -5,3 +5,4 @@ plotly
 sklearn
 seaborn
 pandas
+h5py
